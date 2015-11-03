@@ -14,12 +14,12 @@ excerpt_separator: "[-----]"
 mode: product
 url: http://morenjojo.github.io/
 devurl: http://localhost:4000/
-name: VVcc
-title: VVcc | Another yet unique freak is showing a freakshow
+name: Moren jojo
+title: Moren jojo | Another yet unique freak is showing a freakshow
 description: "Morenjojo's personal weblog, on coding or such stuff"
 
 my:
-    displayName: VVcc
+    displayName: Moren jojo
     realName: Wang Yanchen
     realName_cn: 王衍晨
     jobTitle: "iOS Coder"
@@ -28,7 +28,7 @@ my:
         email: 1678453@qq.com
         github: http://www.github.com/morenjojo
         qzone: http://1678453.qzone.qq.com
-#        pinterest: https://www.pinterest.com/miblah/
+        pinterest: http://www.zhihu.com/people/jojo-moren
         tel: 15811275153
         address:
             country: China
@@ -40,7 +40,7 @@ my:
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        tools: ["iOS | Xcode", "Text Mate", "Git | Github", "Mac OS", "Jekyll | Liquid"]
 
 collections:
     qqGroupGuide:
