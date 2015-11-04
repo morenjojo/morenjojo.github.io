@@ -14,7 +14,7 @@ excerpt_separator: "[-----]"
 mode: product
 url: http://morenjojo.github.io/
 devurl: http://localhost:4000/
-name: Moren jojo
+name: V & C
 title: Moren jojo | Another yet unique freak is showing a freakshow
 description: "Morenjojo's personal weblog, on coding or such stuff"
 
@@ -38,9 +38,9 @@ my:
             postcode: 255100
             cell: "PanYang"
     skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["iOS | Xcode", "Text Mate", "Git | Github", "Mac OS", "Jekyll | Liquid"]
+        frontend: ["iOS | Objective-C Swift"]
+        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC", "前面的都不会 囧"]
+        tools: ["iOS | Xcode", "Text Mate", "MacDown", "Git | Github", "Mac OS", "Jekyll | Liquid"]
 
 collections:
     qqGroupGuide:

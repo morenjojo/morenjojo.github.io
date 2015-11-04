@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UniFreak | Another yet unique freak is showing a freakshow</title>
-    <description>Fanghao&#39;s personal weblog, on coding or such stuff</description>
-    <link>https://unifreak.github.io//</link>
-    <atom:link href="https://unifreak.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2015 21:49:11 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2015 21:49:11 +0800</lastBuildDate>
+    <title>Moren jojo | Another yet unique freak is showing a freakshow</title>
+    <description>Morenjojo&#39;s personal weblog, on coding or such stuff</description>
+    <link>http://morenjojo.github.io//</link>
+    <atom:link href="http://morenjojo.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 Nov 2015 09:25:10 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 09:25:10 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -186,8 +186,8 @@ wiw_labs:$ diff second first
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 00:00:00 +0800</pubDate>
-        <link>https://unifreak.github.io//translation/understanding-the-diff-command-in-unix</link>
-        <guid isPermaLink="true">https://unifreak.github.io//translation/understanding-the-diff-command-in-unix</guid>
+        <link>http://morenjojo.github.io//translation/understanding-the-diff-command-in-unix</link>
+        <guid isPermaLink="true">http://morenjojo.github.io//translation/understanding-the-diff-command-in-unix</guid>
         
         <category>linux</category>
         
@@ -642,8 +642,8 @@ Content-Type: text/html
 &lt;hr&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0800</pubDate>
-        <link>https://unifreak.github.io//translation/http-headers-and-php-header-function</link>
-        <guid isPermaLink="true">https://unifreak.github.io//translation/http-headers-and-php-header-function</guid>
+        <link>http://morenjojo.github.io//translation/http-headers-and-php-header-function</link>
+        <guid isPermaLink="true">http://morenjojo.github.io//translation/http-headers-and-php-header-function</guid>
         
         <category>php</category>
         
