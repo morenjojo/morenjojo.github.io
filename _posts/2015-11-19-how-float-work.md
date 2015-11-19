@@ -1,7 +1,7 @@
 ---
 title: "0.1 + 0.2 = ?"
 layout: post
-categories: [开发,translation]
+categories: [develop,translation]
 tags: [iOS,php,math]
 excerpt: "如果0.1 + 0.2 = 0.3, 那么0.1 + 0.2 - 0.3 = ?"
 ---

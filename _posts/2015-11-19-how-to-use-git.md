@@ -1,7 +1,7 @@
 ---
 title: "Git 多人协同的正确方式"
 layout: post
-category: 开发
+category: develop
 tags: [Git]
 excerpt: "Git比起svn，冲突的概率小了，多人协作更有效率，解决起冲突也更灵活。这篇日志不是讲Git的基本用法，主要想说一下在多人协作的iOS团队中如何正确的使用git，把冲突的概率降到最低"
 ---

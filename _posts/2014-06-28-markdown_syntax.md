@@ -1,7 +1,7 @@
 ---
 title: "markdown 工具 MacDown 使用帮助"
 layout: post
-category: 文档
+category: docs
 tags: [markdown,tool]
 excerpt: "Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found"
 ---

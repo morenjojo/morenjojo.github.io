@@ -1,7 +1,7 @@
 ---
 title: "支付宝sdk 回调问题"
 layout: post
-category: 开发
+category: develop
 tags: [iOS,SDK,Alipay]
 excerpt: "在调试支付宝支付时遇到的，由于用的模拟器一直没有发现在真机上有问题..."
 ---
