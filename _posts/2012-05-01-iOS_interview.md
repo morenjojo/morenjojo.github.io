@@ -27,3 +27,7 @@ excerpt: "iOS面试题，为了面试别人和被别人面试，会不断更新"
 
 ###参考
 - [iOS 面试基础题目](http://www.jianshu.com/p/4d7292741f53)
+- [这些 iOS 面试基础题，你会么？](http://ios.jobbole.com/82858/)
+- [iOS 面试大全从简单到复杂(简单篇)](http://www.jianshu.com/p/a2435b29875b)
+- [百度 iOS 面试总结](http://ios.jobbole.com/82855/)
+- [推荐：iOS开发面试题整理](https://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&mid=402545546&idx=1&sn=11c05fbaa018f25f889486b7e33a64ce&scene=0&key=ac89cba618d2d976665200f1949ada2961faa673cca3a5d6997019e948c01f84e2f88a371d094ceb4559315c95376a58&ascene=0&uin=NjQ1NjQ1&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=IEssflilCZxqf%2BSXHAfgY%2BYS%2BWX1OOw5Tv1iUa5pgYY%3D)
