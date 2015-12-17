@@ -25,6 +25,9 @@ excerpt: "iOS面试题，为了面试别人和被别人面试，会不断更新"
 
 **`所以平时尽量不要滥用block，尤其是在网络层这里。`**
 
+###Objective-C Blocks Quiz
+[这里](http://blog.parse.com/learn/engineering/objective-c-blocks-quiz/)有关于Block的小测验  
+
 ###参考
 - [iOS 面试基础题目](http://www.jianshu.com/p/4d7292741f53)
 - [这些 iOS 面试基础题，你会么？](http://ios.jobbole.com/82858/)
