@@ -4202,7 +4202,7 @@ ul {
  * ----------------------------------------------------------------------------------------
  */
 #l-header {
-  background-color: #1c3340;
+  background-color: #258FE6;
   color: white;
 }
 #l-header h1 {
@@ -4420,7 +4420,7 @@ ul {
   margin-bottom: 6rem;
 }
 #l-main #about header {
-  background-color: #1C3340;
+  background-color: #258FE6;
   color: white;
   max-height: 18rem;
 }
@@ -4439,10 +4439,10 @@ ul {
 }
 #l-main #about section h2 {
   font-size: 4rem;
-  color: #1c3340;
+  color: #258FE6;
   margin: 0;
   margin-bottom: 1rem;
-  border-bottom: 3px solid #1C3340;
+  border-bottom: 3px solid #258FE6;
 }
 #l-main #about section#intro h2 {
   font-size: 7rem;
@@ -4465,7 +4465,7 @@ ul {
   display: inline;
   background-color: #000000;
   color: white;
-  border: 1px solid #1C3340;
+  border: 1px solid #258FE6;
   padding: 3px;
   border-radius: 4px;
   margin-left: 1rem;
@@ -4491,7 +4491,7 @@ ul {
 }
 #l-main div#building i {
   font-size: 15rem;
-  color: #1C3340;
+  color: #258FE6;
 }
 #l-main div#paginator {
   margin: 0 auto;
@@ -4558,7 +4558,7 @@ ul.tags {
   padding-left: 2rem;
 }
 #filterList li.current {
-  background-color: #1C3340;
+  background-color: #258FE6;
 }
 #filterList li:hover:not(.current) {
   background-color: white;
@@ -4580,7 +4580,7 @@ ul.tags {
   margin-top: 1.5rem;
   text-align: center;
   line-height: 2rem;
-  box-shadow: 0 0 3px #1C3340;
+  box-shadow: 0 0 3px #258FE6;
   border-radius: 50%;
 }
 
@@ -4603,7 +4603,7 @@ ul.tags {
   #l-main #about section#intro h2 {
     font-size: 4rem;
     margin: 0;
-    border-bottom: 3px solid #1C3340;
+    border-bottom: 3px solid #258FE6;
   }
   #l-main #about section#skillsets ul li {
     display: block;
@@ -4616,7 +4616,7 @@ ul.tags {
  * ----------------------------------------------------------------------------------------
  */
 #l-footer {
-  background-color: #1c3340;
+  background-color: #258FE6;
   color: white;
   margin-top: 7rem;
   padding: 1.5rem;

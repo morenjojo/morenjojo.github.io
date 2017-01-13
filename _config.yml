@@ -14,7 +14,7 @@ excerpt_separator: "[-----]"
 mode: product
 url: http://morenjojo.github.io/
 devurl: http://localhost:4000/
-name: Vc.work
+name: 嘟爸
 title: Moren jojo
 description: "Morenjojo's personal weblog, on coding or such stuff"
 
@@ -27,9 +27,9 @@ my:
         qq: 1678453
         email: 1678453@qq.com
         github: http://www.github.com/morenjojo
-        qzone: http://1678453.qzone.qq.com
+        weixin: moren_jojo
         weibo: http://weibo.com/u/1051713905
-        tel: 15811275153
+        tel: 13864335509
         address:
             country: China
             state: ShanDong
